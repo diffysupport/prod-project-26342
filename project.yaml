@@ -1,5 +1,5 @@
 basic:
-    name: 'https://easycarfinance.au/'
+    name: easycarfinance.au
     environments:
         production: 'https://easycarfinance.au/'
         staging: 'https://staging.easycarfinance.au/'
